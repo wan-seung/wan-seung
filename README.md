@@ -1,6 +1,5 @@
 ### Hi, I'm Seungwan Kim 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C+%EB%B0%94%EA%BE%B8%EB%8A%94+FE+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%86%8C%ED%94%84%ED%8A%B8+%EC%8A%A4%ED%82%AC%EC%9D%B4+%EA%B8%B0%EC%88%A0%EB%A7%8C%ED%81%BC+%EC%A4%91%EC%9A%94%ED%95%98%EB%8B%A4%EA%B3%A0+%EB%AF%BF%EC%96%B4%EC%9A%94;%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C+%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0+%EB%81%9D%EA%B9%8C%EC%A7%80+%EC%A0%9C%ED%92%88%EC%9D%84+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%99%94%EC%96%B4%EC%9A%94)](https://git.io/typing-svg)
+**비즈니스 문제를 제품으로 바꾸는 FE 개발자**
 
 <br/>
 
