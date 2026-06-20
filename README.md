@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=wan-seung&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=wan-seung&style=flat-square&color=blueviolet" alt="wan-seung" /></p>
+
 <br/>
 
 다양한 직군과 맥락을 나누며 비즈니스 문제를 제품으로 풀어내는 걸 좋아합니다.  
@@ -36,27 +38,6 @@
 
 <br/>
 
-**📌 Projects**
+📝 Portfolio — [wanie.vercel.app](https://wanie.vercel.app)
 
-🎤 **연예 매니지먼트 SaaS** — Turborepo 모노레포로 3개 앱 설계, Middleware 기반 권한 체인, 4개국어 지원
-
-💧 **상수도 IoT 관제시스템** — GIS 지도 기반 실시간 IoT 디바이스 관제 UI, RTK Query 실시간 데이터 처리
-
-📱 **한빗코 거래소 모바일 앱** — React Native 앱 리뉴얼, Fastlane + GitHub Actions로 iOS/Android 배포 자동화
-
-🤖 **Moyeo — AI 총무봇** — React Native + Expo Router, AI 봇 채팅 UI, pnpm workspace 모노레포
-
-<br/>
-
-**📬 Contact**
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reddht721@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungwan-kim-31237a209/)
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wan-seung/wan-seung/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wan-seung/wan-seung/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wan-seung/wan-seung/output/github-contribution-grid-snake.svg">
-</picture>
+📫 How to reach me — **reddht721@gmail.com**
