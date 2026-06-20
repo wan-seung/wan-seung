@@ -1,4 +1,9 @@
-# Seungwan Kim
+<h1 align="center">Hi 👋, I'm Seungwan Kim</h1>
+<h3 align="center">아이디어부터 배포·운영까지 직접 책임지는 개발자 from Korea</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wan-seung&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <br/>
 
@@ -40,6 +45,15 @@
 📱 **한빗코 거래소 모바일 앱** — React Native 앱 리뉴얼, Fastlane + GitHub Actions로 iOS/Android 배포 자동화
 
 🤖 **Moyeo — AI 총무봇** — React Native + Expo Router, AI 봇 채팅 UI, pnpm workspace 모노레포
+
+<br/>
+
+**📊 GitHub Stats**
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wan-seung&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Seungwan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wan-seung&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
 <br/>
 
