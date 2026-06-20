@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seungwan Kim</h1>
-<h3 align="center">아이디어부터 배포·운영까지 직접 책임지는 개발자 from Korea</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wan-seung&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# Seungwan Kim
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=wan-seung&style=flat-square&color=blueviolet" alt="wan-seung" /></p>
 
