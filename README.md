@@ -48,15 +48,6 @@
 
 <br/>
 
-**📊 GitHub Stats**
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wan-seung&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="Seungwan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wan-seung&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<br/>
-
 **📬 Contact**
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reddht721@gmail.com)
